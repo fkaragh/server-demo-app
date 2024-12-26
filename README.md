@@ -1,6 +1,12 @@
 # CmpDeepDive
 
+This project covers data binding, state management, and interaction with backend services, helping to understand and apply Angular's core features effectively.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0-next.2.
+
+## Screenshots
+
+![1](https://github.com/user-attachments/assets/8c9db37e-bdb2-49fb-8336-1bb5c730302c)
 
 ## Development server
 
